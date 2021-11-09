@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+}
+
+.header {
+    background-color: black;
+    color: aliceblue;
+}
+
+.cases {
+    background-color: black;
+    color: aliceblue;
+}
+
+.death {
+    background-color: black;
+    color: aliceblue;
+}
+
+.recovered {
+    background-color: black;
+    color: aliceblue;
+}
+
+button {
+    background-color: red;
+}
